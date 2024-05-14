@@ -43,7 +43,7 @@ This project uses:
 - **JavaScript:** To enhance front-end interactivity.
 - **HTML5/CSS3:** For structuring and styling the web interface.
 - **Google Calendar API:** To integrate with Google services.
-- **Gemini AI: ** Used to read couse outline and output the data to the calendar.
+- **Gemini AI:** Used to read couse outline and output the data to the calendar.
 - **Figma:** For designing the UI layout and visual themes.
 
 <br/>

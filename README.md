@@ -1,2 +1,60 @@
-# GoStudy
-This was a project built for the GDSC 2024 Hackathon that takes in course syllabi pdfs and generates schedules using with the help of Gemini. It was built using Flask, HTML, CSS, JavaScript, and Google Cloud Tools.
+# 📅 Course Calendar AI
+
+<p align="center">
+  
+ <img width="700" alt="Screen Shot 2024-05-12 at 9 48 06 PM" src="https://github.com/YourUsername/CourseCalendarAI/assets/YourImageID/YourGeneratedImageID">
+
+</p>
+
+## 📖 Table of Contents
+- [Try It Out](#-try-it-out)
+- [About The Project](#-about-the-project)
+  - [Features](#-features)
+  - [Tech Used](#-tech-used)
+- [Contributors](#-contributors)
+
+<br/>
+
+## 🔍 Try It Out
+Experience the application at [CourseCalendarAI.com](https://yourusername.github.io/CourseCalendarAI/).
+
+<br/>
+
+## ⚙️ About The Project
+For students struggling with managing their course workloads, we developed the Course Calendar AI during a hackathon. This tool not only schedules your coursework and exams but also adapts to your personal study habits. Utilizing advanced AI techniques, we've created a dynamic tool that integrates seamlessly with Google Calendar, ensuring students can keep track of their academic obligations effortlessly.
+
+<br/>
+
+## 🚀 Features
+
+- **Automatic Scheduling:** AI-driven algorithms to plan your study sessions based on course deadlines and personal availability.
+- **Customizable Preferences:** Set your study durations, color-code your courses, and adjust priorities as needed.
+- **Responsive Design:** Works on any device, allowing students to plan their academic schedule on the go.
+- **Integration with Google Calendar:** Syncs seamlessly with Google Calendar to keep your academic and personal life coordinated.
+- **User-Friendly Interface:** Intuitive design makes it easy to set up and manage your academic schedule.
+
+<br/>
+
+## 💻 Tech Used
+
+This project uses: 
+
+- **Python:** For backend logic and AI algorithms.
+- **JavaScript:** To enhance front-end interactivity.
+- **HTML5/CSS3:** For structuring and styling the web interface.
+- **Google Calendar API:** To integrate with Google services.
+- **Figma:** For designing the UI layout and visual themes.
+
+<br/>
+
+## ✉️ Contributors
+
+Want to know more or contribute? Reach out to our team!
+
+- **[Markus Gavra](mailto:markusgavra@gmail.com)** - Frontend development and design. 
+- **[Team Member Name](mailto:teammember.email@example.com)** - Frontend development and design.
+- **[Another Team Member](https://www.linkedin.com/in/anothermember)** - Backend logic and API services.
+- **[Team Member Name](mailto:teammember.email@example.com)** - Initial work and AI integration.
+
+Feel free to submit issues or pull requests to help improve the project!
+

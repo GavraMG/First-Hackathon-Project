@@ -7,16 +7,10 @@
 </p>
 
 ## 📖 Table of Contents
-- [Try It Out](#-try-it-out)
 - [About The Project](#-about-the-project)
   - [Features](#-features)
   - [Tech Used](#-tech-used)
 - [Contributors](#-contributors)
-
-<br/>
-
-## 🔍 Try It Out
-Experience the application at [CourseCalendarAI.com](https://yourusername.github.io/CourseCalendarAI/).
 
 <br/>
 

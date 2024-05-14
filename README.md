@@ -2,7 +2,7 @@
 
 <p align="center">
   
- <img width="700" alt="Screen Shot 2024-05-12 at 9 48 06 PM" src="https://github.com/YourUsername/CourseCalendarAI/assets/YourImageID/YourGeneratedImageID">
+ <img width="700" alt="Screen Shot 2024-05-12 at 9 48 06 PM" src="![Screenshot 2024-05-13 230949](https://github.com/GavraMG/GavraMG/assets/145468935/04729688-c606-4a99-adf2-1b80c6a053bf)">
 
 </p>
 
@@ -43,6 +43,7 @@ This project uses:
 - **JavaScript:** To enhance front-end interactivity.
 - **HTML5/CSS3:** For structuring and styling the web interface.
 - **Google Calendar API:** To integrate with Google services.
+- **Gemini AI: ** Used to read couse outline and output the data to the calendar.
 - **Figma:** For designing the UI layout and visual themes.
 
 <br/>
@@ -55,6 +56,4 @@ Want to know more or contribute? Reach out to our team!
 - **[Team Member Name](mailto:teammember.email@example.com)** - Frontend development and design.
 - **[Another Team Member](https://www.linkedin.com/in/anothermember)** - Backend logic and API services.
 - **[Team Member Name](mailto:teammember.email@example.com)** - Initial work and AI integration.
-
-Feel free to submit issues or pull requests to help improve the project!
 

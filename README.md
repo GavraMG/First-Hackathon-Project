@@ -2,7 +2,7 @@
 
 <p align="center">
   
- <img width="700" alt="Screen Shot 2024-05-12 at 9 48 06 PM" src="![Screenshot 2024-05-13 230949](https://github.com/GavraMG/GavraMG/assets/145468935/04729688-c606-4a99-adf2-1b80c6a053bf)">
+ <img width="700" alt="Screen Shot 2024-05-12 at 9 48 06 PM" src="https://github.com/GavraMG/GavraMG/assets/145468935/04729688-c606-4a99-adf2-1b80c6a053bf">
 
 </p>
 

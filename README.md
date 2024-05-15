@@ -47,7 +47,7 @@ This project uses:
 Want to know more or contribute? Reach out to our team!
 
 - **[Markus Gavra](mailto:markusgavra@gmail.com)** - Frontend development and design. 
-- **[Team Member Name](mailto:teammember.email@example.com)** - Frontend development and design.
-- **[Another Team Member](https://www.linkedin.com/in/anothermember)** - Backend logic and API services.
-- **[Team Member Name](mailto:teammember.email@example.com)** - Initial work and AI integration.
+- **[Oliver Catania](mailto:oacatania@gmail.com)** - Frontend development and design.
+- **[Ryan Phou](mailto:ryanphou@live.com)** - Backend logic and API services.
+- **[Tyler Luu](mailto:Tyler.luu.1832@gmail.com)** - Initial work and AI integration.
 
